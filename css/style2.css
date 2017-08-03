@@ -1,0 +1,120 @@
+body{
+  font-family: tahoma;
+}
+
+.navbar .navbar-brand {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.cover{
+  background-position: center;
+  text-align: center;
+  margin-top:-20px;
+  padding: 80px;
+}
+
+.jumbotron{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  border-radius:30px;
+  background-color:inherit;
+  color: #ffda7a;
+}
+
+.jumbotron h1{
+  font-weight: bold;
+  color: #e0e0e0;
+}
+
+.border{
+  border-bottom: 5px solid #d7613b;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.service{
+  background-color: #e6e6e6;
+}
+.service h1{
+  font-weight: bolder;
+  color: #1c1c1c;
+}
+.service h4{
+  font-weight: bolder;
+  color: #d7b03b;
+}
+
+.box{
+  background-color: #f0f0f0;
+  margin-bottom: 30px
+}
+
+.box h4:hover{
+  color: #d7613b;
+
+}
+
+.kotak{
+  padding-top: 10px;
+}
+
+.why{
+
+}
+
+.why h1{
+  color: #f4f4f4;
+  font-weight: bolder;
+}
+
+.why h3{
+  color: #e3e3e3;
+  font-weight: bold;
+}
+
+.bulat{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border-width: thick;
+  border-style:solid;
+  border-color: #e3e3e3;
+  line-height: 200px;
+  margin: 0 auto;
+}
+
+.bulat:hover{
+  border-color: #d7613b;
+}
+
+.testimonial{
+  background-color: #e6e6e6;
+}
+
+.test{
+  background-color: #f4f4f4;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.testimonial h1{
+  color: #1c1c1c;
+  font-weight: bolder;
+}
+
+.footer1{
+  background-color: #1c1c1c;
+  color: #bdbdbd;
+}
+
+.footer1 h4{
+  font-weight: bolder;
+  color: #d7b03b;
+}
+
+.footer2{
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}

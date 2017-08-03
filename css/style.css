@@ -1,0 +1,72 @@
+body{
+  font-family: tahoma;
+}
+
+.cover{
+  margin-top: -17px;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.headline{
+  padding-top: 185px;
+  padding-bottom: 185px;
+}
+.headline h1{
+  color: #eeeeee;
+  font-weight: bolder;
+  font-size: 65px;
+}
+.headline h3{
+  color: #eeeeee;
+}
+
+.fitur{
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+.bulat{
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  line-height: 120px;
+  margin: 0 auto;
+  background: #f2f2f2;
+  color: #e67373;
+  border:
+}
+
+.recentwork{
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background: #f2f2f2;
+}
+.testimony{
+  background: #ffffff;
+  padding: 15px;
+}
+
+.needhelp{
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+textarea{
+  height:100%;
+  width: 100%;
+  margin-top:21px;
+}
+
+
+.footer1{
+  background: #e67373;
+  color: #e3e3e3;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+.footer1 h3{
+  font-weight: bolder;
+}
+.f , .ff , .fff{
+  border-right: 2px solid #ec8484;
+}
